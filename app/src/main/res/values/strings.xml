@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Soap Retrofit Example</string>
+
+
+
+
+    <string name="city_name_hint">Please enter a city name</string>
+    <string name="make_request">send request(WebService+XML)</string>
+    <string name="make_request2">send request(HTTP+JSON)</string>
+</resources>
